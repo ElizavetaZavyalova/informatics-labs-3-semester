@@ -1,0 +1,8 @@
+﻿  Big_int.cpp
+C:\Users\HONOR\source\repos\laba3.4\laba3.4\Big_int.h(178,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Big_num.cpp
+C:\Users\HONOR\source\repos\laba3.4\laba3.4\Big_int.h(178,21): warning C4018: <: несоответствие типов со знаком и без знака
+  laba3.4.1.cpp
+C:\Users\HONOR\source\repos\laba3.4\laba3.4\Big_int.h(178,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  laba3.4.vcxproj -> C:\Users\HONOR\source\repos\laba3.4\Debug\laba3.4.1.exe

@@ -1,0 +1,30 @@
+﻿  binary.cpp
+  laba3.3.1.cpp
+C:\Users\HONOR\source\repos\laba3.3\laba3.3.1\binary.h(95,19): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\HONOR\source\repos\laba3.3\laba3.3.1\binary.h(80): message : во время компиляции функции-члена класс шаблон "Tvalue BinareaPyramid<Tkey,Tvalue>::extractminimum(void)"
+          with
+          [
+              Tvalue=int,
+              Tkey=int
+          ]
+C:\Users\HONOR\source\repos\laba3.3\laba3.3.1\binary.h(338): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BinareaPyramid<Tkey,Tvalue>"
+          with
+          [
+              Tkey=int,
+              Tvalue=int
+          ]
+C:\Users\HONOR\source\repos\laba3.3\laba3.3.1\binary.h(335): message : во время компиляции функции-члена класс шаблон "AC<int,int> *AC<int,int>::factory_method(comparer<Tkey> *,int)"
+          with
+          [
+              Tkey=int
+          ]
+C:\Users\HONOR\source\repos\laba3.3\laba3.3.1\laba3.3.1.cpp(10): message : выполняется компиляция ссылки на экземпляр шаблон функции "AC<int,int> *AC<int,int>::factory_method(comparer<Tkey> *,int)"
+          with
+          [
+              Tkey=int
+          ]
+C:\Users\HONOR\source\repos\laba3.3\laba3.3.1\laba3.3.1.cpp(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "AC<int,int>"
+  Создание кода...
+C:\Users\HONOR\source\repos\laba3.3\laba3.3.1\binary.h(346): warning C4715: AC<int,int>::factory_method: значение возвращается не при всех путях выполнения
+C:\Users\HONOR\source\repos\laba3.3\laba3.3.1\binary.h(233): warning C4715: BinomialPyramid<int,int>::minimum: значение возвращается не при всех путях выполнения
+  laba3.3.1.vcxproj -> C:\Users\HONOR\source\repos\laba3.3\Debug\laba3.3.1.exe
